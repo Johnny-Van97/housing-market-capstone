@@ -2,6 +2,9 @@
 
 This project examines Nashville’s housing market by analyzing home prices, mortgage and rent trends, inventory levels, and new construction. It also explores how population and income growth align with real estate patterns, offering a broader perspective on the region’s market shifts over time.
 
+# Canva Deck
+Link: https://www.canva.com/design/DAGxIUZDjkY/F4-kcChFbLBhB7P9JBX1LQ/edit?ui=eyJIIjp7IkEiOnRydWV9fQ
+
 # Motivation
 
 As a first time homebuyer living in Nashville and originally from northern California, I’ve personally experienced two considerably different real estate markets. California's housing market has become infamously expensive, while Nashville is a rapidly growing and seemingly more affordable alternative. However, Nashville has seen significant price increases in recent years. I would like to better understand how the Nashville real estate market looks in terms of affordability, price growth, and investment value.
